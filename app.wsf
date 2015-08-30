@@ -1,0 +1,4 @@
+<job id="process1">
+    <script language="VBScript" src="main\init.vbs"></script>
+    <script language="VBScript" src="main\app.vbs"></script>
+</job>

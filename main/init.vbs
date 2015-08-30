@@ -1,0 +1,2 @@
+DIRECTORY = "test"
+DAYNUMBER = 7
