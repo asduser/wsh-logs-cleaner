@@ -1,4 +1,7 @@
 # wsh-logs-cleaner
+
+### About
+
 Simple useful VBScript for working with log-files.
 
 <p>You can use that script for cleaning logs-folder by specifying certain parameters, which define script's behaviour.</p>
