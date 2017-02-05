@@ -7,4 +7,4 @@ Simple useful VBScript for working with logs.
 <i> DIRECTORY </i> - directory on your PC for cleaning.<br/>
 <i> DAYNUMBER </i> - maximum number of days to removing file from directory.<br/>
 
-<p>To start just run `application.bat`</p>
+To start just run `application.bat`
