@@ -8,3 +8,10 @@ Simple useful VBScript for working with logs.
 ` DAYNUMBER ` - maximum number of days to removing file from directory.<br/>
 
 To start just run `application.bat`
+
+
+## Licence
+
+MIT License
+
+Copyright (c) 2017 [asduser](https://github.com/asduser)
